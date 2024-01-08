@@ -33,9 +33,8 @@ Selecting the best-performing model (XGBoost in this case)
 
 - Hyperparameter tuning to optimize XGBoost's performance
 - Prediction and Deployment
-
-Using the final XGBoost model to predict readmission likelihood for new patients
-Discussing deployment strategies for integration into healthcare systems
+- Using the final XGBoost model to predict readmission likelihood for new patients
+- Discussing deployment strategies for integration into healthcare systems
 
 ## Key Findings
 
@@ -45,5 +44,5 @@ Discussing deployment strategies for integration into healthcare systems
 
 ## Repository Contents
 
-README.md (this file)
-hospital_readmission_prediction.ipynb (Jupyter Notebook containing the project code)
+- README.md (this file)
+- hospital_readmission_prediction.ipynb (Jupyter Notebook containing the project code)
